@@ -18,7 +18,7 @@ module Tayo
     include Logger
 
     def initialize
-      log.info("Yo mama...")
+      log.info("blah")
     end
   end
 end
